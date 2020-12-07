@@ -8,6 +8,7 @@ HTML CSS Git: Code Refactor
 -I removed the footer
 -I added ID tag to link 1 so now all links work
 -I changed the website name to Horiseon
+-I changed class names to more appropriate class names
 
 ## Screenshots
 <img src="test.png" 
